@@ -1,0 +1,6 @@
+Twizzlers,0,10
+Oreo's,3,20
+Sour Cream and Onion Lays,5,30
+G35,10,1500
+SDEV200,199,13
+Gatorade,293,175
